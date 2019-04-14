@@ -1,0 +1,1 @@
+osm_extract_download --api-token=PASTE-YOUR-API-TOKEN-HERE --data-format=pbf shanghai_china
